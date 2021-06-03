@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{461BAA88-1B8C-456C-9FCD-810D475C210E}</ProjectGuid>
+    <ProjectGuid>{09320BFE-0B07-4096-9448-B136F5544355}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Chapter_30_893_SquaringTheCircle</RootNamespace>
     <AssemblyName>Chapter_30 893 SquaringTheCircle</AssemblyName>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
+   <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
